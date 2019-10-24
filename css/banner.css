@@ -1,0 +1,33 @@
+.banner{
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  background-position:center;
+  height:60%;
+  width:100%;
+  color:white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  padding:15px 0;
+}
+
+.banner-container{
+  justify-content: center;
+}
+.banner-img {
+  height:24px;
+  width:24px;
+  border-radius: 50%;
+}
+
+.cards{
+  justify-content: space-around;
+}
+
+.social {
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}

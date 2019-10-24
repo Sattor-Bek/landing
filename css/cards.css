@@ -1,0 +1,34 @@
+.cards{
+height: 20%;
+width:100%;
+text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+display:flex;
+position:relative;
+text-align: center;
+}
+
+.discription{
+  align-items:center;
+  text-align: left;
+  }
+.ind-card {
+box-shadow: 0 0 15px rgba(0,0,0,0.2);
+border-radius: 5px;
+margin:15px;
+}
+.cards img{
+padding:10px;
+width:35%;
+}
+
+.avt img{
+  position: absolute;
+  top: 248px;
+  right: 19px;
+  height: 60px;
+  width: 60px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
